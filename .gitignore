@@ -1,0 +1,6 @@
+*.swp
+*.tmp
+bin/*
+public/*
+.hugo_build.lock
+drafts/*
