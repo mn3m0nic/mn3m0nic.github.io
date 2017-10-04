@@ -1,8 +1,7 @@
 ![Free Full Technological Stack](https://raw.githubusercontent.com/mn3m0nic/ffts/master/img/ffts_text.png)
-***
 
-Emdedded electronics for personal usage
-=======================================
+Emdedded electronics for personal use
+=====================================
 * [Raspberry Pi](http://www.raspberrypi.org/)
 * [CubieBoard](http://cubieboard.org/)
 * [Sheevaplug](http://en.wikipedia.org/wiki/SheevaPlug)
@@ -119,7 +118,6 @@ other Jabber clients:
 * Don't use QIP, Skype, Vk and other non-free IM's
 * UPD: Don't use Telegram [1](https://www.schneier.com/blog/archives/2016/06/comparing_messa.html) [2](https://security.stackexchange.com/questions/49782/is-telegram-secure)
 
-
 Graphical 2D bitmap editing/drawing software
 =============================================
 * [Krita](https://krita.org/)
@@ -146,8 +144,8 @@ Programs for typesetting
 ========================
 * [Scribus](http://scribus.net/)
 
-Document markup software with LaTeX-syntax
-==========================================
+LaTeX / TeX
+===========
 * [LaTeX Official site](http://latex-project.org/)
 * [TexMaker](http://www.xm1math.net/texmaker/)
 * [TexStudio](http://sourceforge.net/projects/texstudio/)
