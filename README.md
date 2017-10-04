@@ -13,6 +13,7 @@ PC Hardware / Laptops
 =====================
 * [IBM/LENOVO Thinkpad](https://github.com/mn3m0nic/ffts/blob/master/thinkpad.md)
 * [FSF Hardware list](http://www.fsf.org/resources/hw/endorsement/respects-your-freedom)
+* [FSF more hardware](https://www.fsf.org/resources/hw)
 
 Hardware / Mobile phones
 ========================
@@ -160,3 +161,11 @@ Automated configuration
 * [Chef](https://www.chef.io/)
 * [Ansible](http://www.ansible.com/)
 * [Salt](https://github.com/saltstack/salt)
+
+Video About Free Software 
+=========================
+
+* [Revolution OS (RUS)](https://www.youtube.com/watch?v=n1F_MfLRlX0)
+* [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+
+
