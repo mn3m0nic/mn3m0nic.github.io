@@ -1,13 +1,11 @@
 ![Free Full Technological Stack](https://raw.githubusercontent.com/mn3m0nic/ffts/master/img/ffts_text.png)
 
-PC Hardware / Laptops
-=====================
+# PC Hardware / Laptops
 * [IBM/LENOVO Thinkpad](https://github.com/mn3m0nic/ffts/blob/master/thinkpad.md)
 * [FSF Hardware list](http://www.fsf.org/resources/hw/endorsement/respects-your-freedom)
 * [FSF more hardware](https://www.fsf.org/resources/hw)
 
-Emdedded 
-========
+# Emdedded 
 * [Raspberry Pi](http://www.raspberrypi.org/)
 * [CubieBoard](http://cubieboard.org/)
 * [Sheevaplug](http://en.wikipedia.org/wiki/SheevaPlug)
@@ -43,8 +41,7 @@ General purpose OS
 * [CentOS](https://centos.org/)
 * [FreeBSD](https://www.freebsd.org) [DragonFlyBSD](http://www.dragonflybsd.org/) 
 
-Smartphone OS
-=============
+# Smartphone OS
 * [Copperhead](https://copperhead.co/android/)
 * [Replicant](https://www.replicant.us/)
 * [Ubuntu Phone](https://www.ubuntu.com/phone) (dead?)
@@ -54,14 +51,13 @@ Smartphone OS
 * [OpenMoko Linux](https://wiki.openmoko.org/wiki/Main_Page) [2](http://en.wikipedia.org/wiki/Openmoko_Linux)
 * [Maemo](https://maemo.org/) (dead)
 
-Router OS
-=========
+# Router OS
 * [OpenWRT](https://openwrt.org/)
 * [NetBSD](https://www.netbsd.org/)
 * [OpenBSD](https://www.openbsd.org/)
 
-Encryption software for general purpose
-===================
+# Encryption software for general purpose
+
 * [GNUPG](https://www.gnupg.org/)
 
 For block devices:
@@ -70,13 +66,11 @@ For block devices:
 * [LibreCrypt](https://github.com/t-d-k/LibreCrypt) LUKS for Windows
 * [TrueCrypt](http://truecrypt.sourceforge.net/) - don't use it
 
-NVIDIA Drivers
-==============
+# NVIDIA Drivers
 * [Nouveau](https://nouveau.freedesktop.org/wiki/)
 * [BumBleBee](https://bumblebee-project.org/)
 
-Web browsers
-========
+# Web browsers
 * [Mozilla Firefox](https://www.mozilla.org)
 * [Chromium](https://www.chromium.org/)
 * [Qupzilla](https://www.qupzilla.com/)
@@ -84,25 +78,22 @@ Web browsers
 * [Konqueror](https://konqueror.org/)
 * [Iridium](https://iridiumbrowser.de/)
 
-3D printer
-==========
+# 3D printer
 * [RepRap](http://reprap.org/)
 
-Office software
-================
+# Office software
 * [Libre Office](https://www.libreoffice.org/)
 * [Emacs](https://www.gnu.org/software/emacs/)
 
-Instant messaging clients
-=====================
+# Instant messaging clients
 
-Best choice:
+## Best choice:
 
 * [Signal](https://signal.org/)  (Signal protocol)
 * [Psi-plus](http://psi-plus.com/)  + [OTR plugin](https://github.com/psi-im/plugins/blob/master/generic/otrplugin/INSTALL)
 * [Ring](https://ring.cx/en)
 
-other Jabber clients:
+## other Jabber clients:
 
 * [CoyIM](https://coy.im/)
 * [Empathy](https://wiki.gnome.org/action/show/Apps/Empathy)
@@ -121,21 +112,18 @@ other Jabber clients:
 * Don't use QIP, Skype, Vk and other non-free IM's
 * UPD: Don't use Telegram [1](https://www.schneier.com/blog/archives/2016/06/comparing_messa.html) [2](https://security.stackexchange.com/questions/49782/is-telegram-secure)
 
-Graphical 2D bitmap editing/drawing software
-=============================================
+# Graphical editors
 * [Krita](https://krita.org/)
 * [GIMP](http://www.gimp.org/)
 * [GPaint](https://www.gnu.org/software/gpaint/)
 
-Graphical vector editing/drawing software
-==========================================
+# Vector editors
 * [Inkscape](https://inkscape.org/)
 * [Libre Office Draw](http://www.libreoffice.org/discover/draw/)
 * [Ipe](http://ipe7.sourceforge.net/)
 * [Xfig](http://www.xfig.org/)
 
-UML/Schematics/alg vector modeling software
-===========================================
+# UML/Schematics/alg
 * [Umbrello UML Modeller](http://sourceforge.net/projects/uml/)
 * [Dia](http://sourceforge.net/projects/dia-installer/)
 * [Libre Office Draw](http://www.libreoffice.org/discover/draw/)
@@ -143,29 +131,25 @@ UML/Schematics/alg vector modeling software
 * [Caligra Flow](https://www.calligra.org/flow/)
 * [StarUML](http://sourceforge.net/projects/staruml/)
 
-Programs for typesetting
-========================
+# Typesetting
 * [Scribus](http://scribus.net/)
 
-LaTeX / TeX
-===========
+# LaTeX / TeX
 * [LaTeX Official site](http://latex-project.org/)
 * [TexMaker](http://www.xm1math.net/texmaker/)
 * [TexStudio](http://sourceforge.net/projects/texstudio/)
 
-Graphical 3D editing software
-=============================
+# 3D 
 * [Blender](http://www.blender.org/)
 
-Automated configuration
-=======================
+# Automated server configuration
 * [Puppet](https://puppetlabs.com/)
 * [Chef](https://www.chef.io/)
 * [Ansible](http://www.ansible.com/)
 * [Salt](https://github.com/saltstack/salt)
 
-Video About Free Software 
-=========================
+# Readme first 
+## Video About Free Software 
 
 * [Revolution OS (RUS)](https://www.youtube.com/watch?v=n1F_MfLRlX0)
 * [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
