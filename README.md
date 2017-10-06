@@ -1,4 +1,4 @@
-![Free Full Technological Stack](https://raw.githubusercontent.com/mn3m0nic/ffts/master/img/ffts_text.png)
+Collection of links to projects:
 
 # PC Hardware / Laptops
 * [IBM/LENOVO Thinkpad](https://github.com/mn3m0nic/ffts/blob/master/thinkpad.md)
