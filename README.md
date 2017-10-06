@@ -1,7 +1,13 @@
 ![Free Full Technological Stack](https://raw.githubusercontent.com/mn3m0nic/ffts/master/img/ffts_text.png)
 
-Emdedded electronics for personal use
-=====================================
+PC Hardware / Laptops
+=====================
+* [IBM/LENOVO Thinkpad](https://github.com/mn3m0nic/ffts/blob/master/thinkpad.md)
+* [FSF Hardware list](http://www.fsf.org/resources/hw/endorsement/respects-your-freedom)
+* [FSF more hardware](https://www.fsf.org/resources/hw)
+
+Emdedded 
+========
 * [Raspberry Pi](http://www.raspberrypi.org/)
 * [CubieBoard](http://cubieboard.org/)
 * [Sheevaplug](http://en.wikipedia.org/wiki/SheevaPlug)
@@ -9,20 +15,14 @@ Emdedded electronics for personal use
 * [GuruPlug](http://en.wikipedia.org/wiki/GuruPlug)
 * [DreamPlug](http://www.globalscaletechnologies.com/c-5-dreamplugs.aspx)
 
-PC Hardware / Laptops
-=====================
-* [IBM/LENOVO Thinkpad](https://github.com/mn3m0nic/ffts/blob/master/thinkpad.md)
-* [FSF Hardware list](http://www.fsf.org/resources/hw/endorsement/respects-your-freedom)
-* [FSF more hardware](https://www.fsf.org/resources/hw)
-
-Hardware / Mobile phones
-========================
+Smartphone
+==========
 * [Purism](puri.sm/shop/librem-5/)
 * [Neo900](http://neo900.org/) (2015)
 * [Neo_FreeRunner](http://wiki.openmoko.org/wiki/Neo_FreeRunner) (old)
 
-Free BIOS firmware
-==================
+Firmware
+========
 * [CoreBoot](https://github.com/mn3m0nic/ffts/blob/master/coreboot.md)
 * [LibreBoot](http://www.libreboot.org/) (free from proprietary blobs fork of Coreboot. not GNU)
 * [SeaBIOS](http://www.seabios.org/SeaBIOS) 
@@ -36,24 +36,26 @@ Security focused Desktop OS
 * [Void](https://www.voidlinux.eu/)
 
 General purpose OS
-================================
-* [Trisquel](https://trisquel.info/) Completely free from binary blobs GNU/Linux and [more](https://www.gnu.org/distros/free-distros.en.html)
+==================
 * [Devuan](https://devuan.org/) (Debian fork without systemD) or [Debian](https://www.debian.org/) or [Ubuntu](http://www.ubuntu.com/)
+* [Trisquel](https://trisquel.info/) Free from [blobs](https://en.wikipedia.org/wiki/Binary_blob) GNU/Linux distro; [more>>](https://www.gnu.org/distros/free-distros.en.html)
 * [Gentoo](https://www.gentoo.org/)
 * [CentOS](https://centos.org/)
-* [FreeBSD](https://www.freebsd.org) in general or [DragonFlyBSD](http://www.dragonflybsd.org/) for example
+* [FreeBSD](https://www.freebsd.org) [DragonFlyBSD](http://www.dragonflybsd.org/) 
 
-OS for mobile phone
-===================
+Smartphone OS
+=============
+* [Copperhead](https://copperhead.co/android/)
+* [Replicant](https://www.replicant.us/)
+* [Ubuntu Phone](https://www.ubuntu.com/phone) (dead?)
 * [Jolla's Sailfish OS](https://sailfishos.org/)
 * [Tizen](https://www.tizen.org) 
 * [LuneOS](https://www.webos-ports.org/)
 * [OpenMoko Linux](https://wiki.openmoko.org/wiki/Main_Page) [2](http://en.wikipedia.org/wiki/Openmoko_Linux)
-* [Ubuntu Phone](https://www.ubuntu.com/phone) (dead?)
 * [Maemo](https://maemo.org/) (dead)
 
-OS for routers/embedded
-==============
+Router OS
+=========
 * [OpenWRT](https://openwrt.org/)
 * [NetBSD](https://www.netbsd.org/)
 * [OpenBSD](https://www.openbsd.org/)
